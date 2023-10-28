@@ -13777,3 +13777,5 @@ project style
   -webkit-text-decoration-skip-ink: none;
           text-decoration-skip-ink: none;
 }
+
+images { image-rendering: -webkit-optimize-contrast; }
