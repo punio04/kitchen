@@ -28,3 +28,5 @@
   font-size: 0.8em;
   margin-left: 0.25em;
 }
+
+img { image-rendering: -webkit-optimize-contrast; }
