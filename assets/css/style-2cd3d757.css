@@ -29,4 +29,4 @@
   margin-left: 0.25em;
 }
 
-img { image-rendering: -webkit-optimize-contrast; }
+images { image-rendering: -webkit-optimize-contrast; }
