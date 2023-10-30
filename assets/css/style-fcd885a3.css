@@ -13666,11 +13666,11 @@ project style
 }
 
 .space-20-2 {
-  margin-bottom: clamp(10rem / var(--baseFontSize), 10rem / var(--baseFontSize) + 30 * (100vw - 769rem / var(--baseFontSize)) / 671, 40rem / var(--baseFontSize));
+  margin-bottom: clamp(10rem / var(--baseFontSize), 10rem / var(--baseFontSize) + 25 * (100vw - 769rem / var(--baseFontSize)) / 671, 35rem / var(--baseFontSize));
 }
 @media (max-width: 767px) {
   .space-20-2 {
-    margin-bottom: clamp(12rem / var(--baseFontSize), 12rem / var(--baseFontSize) + 28 * (100vw - 375rem / var(--baseFontSize)) / 393, 40rem / var(--baseFontSize));
+    margin-bottom: clamp(17rem / var(--baseFontSize), 17rem / var(--baseFontSize) + 23 * (100vw - 375rem / var(--baseFontSize)) / 393, 40rem / var(--baseFontSize));
   }
 }
 
